@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Juan Francisco Ruiz Torres</h1>
 <h3 align="center">mechatronics engineering student who likes programming</h3>
 
-- 📫 How to reach me **franciscor_1103@hotmail.com**
+- 📫 How to reach me **franciscor_1103@icloud.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
